@@ -1,0 +1,6 @@
+itemcode,itemname,price,qty,totalamount,totalamount,totalamount,totalamount,totalamount,totalamount,totalamount,totalamount,totalamount,totalamount
+10,cokelitro,42,100,4200.0,4200.0
+20,redhorse 500ml,65,85,5525.0,5525.0
+30,redhorse 1liter,120,300,36000.0,36000.0
+40,kulafu small,45,80,3600.0,3600.0
+50,sting,20,48,960.0,960.0
